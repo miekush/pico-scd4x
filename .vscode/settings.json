@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "scd4x_i2c.h": "c",
+        "sensirion_common.h": "c",
+        "sensirion_config.h": "c"
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/common/pico_divider",
+		"source" : "C:/Users/mikek/Documents/RaspberryPiPico/pico-sdk/src/common/pico_divider"
+	}
+}
